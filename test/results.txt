@@ -1,0 +1,44 @@
+
+#results
+# local on kitti p2p3
+# Time taken : 1125.0012357234955 seconds
+# Estimated frames per second : 6.895992425297898
+
+# kitti_s3
+# Time taken : 65.37294411659241 seconds
+# Estimated frames per second : 6.822394279880689
+
+# kitti_s4
+# Time taken : 43.70078086853027 seconds
+# Estimated frames per second : 7.162343413076103
+
+# kitti_s5
+# Time taken : 8.025538921356201 seconds
+# Estimated frames per second : 2.741248932387249
+
+# kitti_s6
+#Time taken : 93.74024987220764 seconds
+#Estimated frames per second : 4.608479288127868
+
+# carla s4
+# Time taken : 27.57133388519287 seconds
+# Estimated frames per second : 5.766859182877279
+
+# carla s3
+# Time taken : 35.224701166152954 seconds
+# Estimated frames per second : 6.387563060895465
+
+Time taken : 65.79917025566101 seconds
+Estimated frames per second : 6.7933987353213245
+
+Time taken : 44.10765361785889 seconds
+Estimated frames per second : 7.118945902687137
+
+Time taken : 43.2911696434021 seconds
+Estimated frames per second : 7.25321128041769
+
+Time taken : 43.952075242996216 seconds
+Estimated frames per second : 7.144145032151492
+
+Time taken : 43.535728931427 seconds
+Estimated frames per second : 7.212466810756298
